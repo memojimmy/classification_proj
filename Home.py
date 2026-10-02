@@ -170,7 +170,7 @@ st.write(
 )
 
 if st.button("🔮 Go to Prediction"):
-    st.switch_page("classification_proj\prediction_page.py")
+    st.switch_page("classification_proj/prediction_page.py")
 
 # =========================
 # Footer
